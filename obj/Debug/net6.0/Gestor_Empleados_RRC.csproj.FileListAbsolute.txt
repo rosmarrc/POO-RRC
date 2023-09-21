@@ -1,0 +1,15 @@
+C:\Users\rosma\source\repos\Gestor_Empleados_RRC\bin\Debug\net6.0\Gestor_Empleados_RRC.exe
+C:\Users\rosma\source\repos\Gestor_Empleados_RRC\bin\Debug\net6.0\Gestor_Empleados_RRC.deps.json
+C:\Users\rosma\source\repos\Gestor_Empleados_RRC\bin\Debug\net6.0\Gestor_Empleados_RRC.runtimeconfig.json
+C:\Users\rosma\source\repos\Gestor_Empleados_RRC\bin\Debug\net6.0\Gestor_Empleados_RRC.dll
+C:\Users\rosma\source\repos\Gestor_Empleados_RRC\bin\Debug\net6.0\Gestor_Empleados_RRC.pdb
+C:\Users\rosma\source\repos\Gestor_Empleados_RRC\obj\Debug\net6.0\Gestor_Empleados_RRC.csproj.AssemblyReference.cache
+C:\Users\rosma\source\repos\Gestor_Empleados_RRC\obj\Debug\net6.0\Gestor_Empleados_RRC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosma\source\repos\Gestor_Empleados_RRC\obj\Debug\net6.0\Gestor_Empleados_RRC.AssemblyInfoInputs.cache
+C:\Users\rosma\source\repos\Gestor_Empleados_RRC\obj\Debug\net6.0\Gestor_Empleados_RRC.AssemblyInfo.cs
+C:\Users\rosma\source\repos\Gestor_Empleados_RRC\obj\Debug\net6.0\Gestor_Empleados_RRC.csproj.CoreCompileInputs.cache
+C:\Users\rosma\source\repos\Gestor_Empleados_RRC\obj\Debug\net6.0\Gestor_Empleados_RRC.dll
+C:\Users\rosma\source\repos\Gestor_Empleados_RRC\obj\Debug\net6.0\refint\Gestor_Empleados_RRC.dll
+C:\Users\rosma\source\repos\Gestor_Empleados_RRC\obj\Debug\net6.0\Gestor_Empleados_RRC.pdb
+C:\Users\rosma\source\repos\Gestor_Empleados_RRC\obj\Debug\net6.0\Gestor_Empleados_RRC.genruntimeconfig.cache
+C:\Users\rosma\source\repos\Gestor_Empleados_RRC\obj\Debug\net6.0\ref\Gestor_Empleados_RRC.dll
